@@ -13,7 +13,7 @@
 
 ## Overview
 
-- Live Site URL:Recipe Page(https://gittharun.github.io/Recipe-page/)
+- Live Site URL:Recipe Page(https://gittarun042.github.io/Recipe-Page/recipe-page-main/index.html)
 
 ## My process
 
